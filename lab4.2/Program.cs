@@ -7,7 +7,9 @@ namespace lab4._2
         static void Main(string[] args)
         {
             Console.WriteLine("Введите первое число");
-            int a = int.Parse(Console.ReadLine());
+            int a = int.Parse(Console.ReadLine()); 
+            Console.WriteLine("Введите второе число");
+            int b = int.Parse(Console.ReadLine());
         }
     }
 }
