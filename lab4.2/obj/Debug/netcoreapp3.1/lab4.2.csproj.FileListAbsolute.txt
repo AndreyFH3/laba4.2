@@ -1,0 +1,4 @@
+C:\proga\lab4.2\laba4.2\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.csprojAssemblyReference.cache
+C:\proga\lab4.2\laba4.2\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.AssemblyInfoInputs.cache
+C:\proga\lab4.2\laba4.2\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.AssemblyInfo.cs
+C:\proga\lab4.2\laba4.2\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.csproj.CoreCompileInputs.cache
